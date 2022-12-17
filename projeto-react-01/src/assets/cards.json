@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "quantidade": 1,
+    "viagem": "Lua de mel",
+    "tema": "romântica",
+    "preço": 30000,
+    "img": "https://images.pexels.com/photos/8474502/pexels-photo-8474502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "quantidade": 1,
+    "viagem": "Auto-conhecimento",
+    "tema": "introspecção",
+    "preço": 20000,
+    "img": "https://portalturismototal.com.br/wp-content/uploads/2021/03/Global-Turismo-espacial-Market.jpg"
+  },
+  {
+    "id": 3,
+    "quantidade": 1,
+    "viagem": "Emoção no espaço",
+    "tema": "Aventura",
+    "preço": 28000,
+    "img": "https://futuroelectrico.com/wp-content/uploads/2020/07/w-Viajes-al-espacio-Principal.jpg"
+  },
+  {
+    "id": 4,
+    "quantidade": 1,
+    "viagem": "Descobrindo o espaço",
+    "tema": "Conhecimento",
+    "preço": 24000,
+    "img": "https://hypescience.com/wp-content/uploads/2010/10/astrocolono.jpg"
+  },
+  {
+    "id": 5,
+    "quantidade": 1,
+    "viagem": "Turismo",
+    "tema": "Passeio guiado",
+    "preço": 32000,
+    "img": "https://vidasimples.co/wp-content/uploads/2019/07/vida-simples-efeito-terra-1160x523.jpg"
+  },
+  {
+    "id": 6,
+    "quantidade": 1,
+    "viagem": "confraternização",
+    "tema": "Diversão",
+    "preço": 36000,
+    "img": "https://veja.abril.com.br/wp-content/uploads/2021/09/EQUIPE-2-51307180163_47f9a396ab_o.jpg.jpg?quality=70&strip=info&resize=850,567"
+  }
+]
